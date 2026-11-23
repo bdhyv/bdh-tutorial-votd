@@ -2,6 +2,8 @@
 
 A simple, flowery static site that shows the YouVersion Verse of the Day (Berean Standard Bible) using the [YouVersion Platform API](https://developers.youversion.com/overview).
 
+![Desktop preview](preview/preview-desktop.png)
+
 ## How it works
 
 `index.html` runs entirely in the browser:
